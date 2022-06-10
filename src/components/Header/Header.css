@@ -1,0 +1,13 @@
+.ant-menu-overflow {
+    display: flex;
+}
+
+;
+
+@media only screen and (max-width: 480px) {
+    .ant-menu-overflow {
+        display: none;
+    }
+
+    ;
+}
